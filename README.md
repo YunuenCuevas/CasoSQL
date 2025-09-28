@@ -1,5 +1,4 @@
 # Análisis de venta de restaurante "Sabores del mundo"
-Este proyecto contiene el análisis de datos de la tienda Sabores del Mundo, a través de SQL.
 
 ## Contexto
 Este proyecto contiene el análisis de datos del restaurante "Sabores del mundo" de las ventas realizadas durante el primer trimestre del año 2023, a través de SQL. Estos datos son importantes para la toma de decisiones sobre la restructuración del menú.
